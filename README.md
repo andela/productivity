@@ -8,18 +8,18 @@ A collection of docs, readmes and ideas for productivity hacks &amp; tips
 This is an editble, and everchanging document. Please contribute! 
 
 Table of Contents:
-- [Computer Shortcuts](https://github.com/jensenfleming/Productivity-/blob/master/README.md#computer-shortcuts)
-- [Chrome Shortcuts](https://github.com/jensenfleming/Productivity-/blob/master/README.md#chrome-shortcuts)
-- [Gmail Shortcuts](https://github.com/jensenfleming/Productivity-/blob/master/README.md#gmail-shortcuts)
-- [Slack Main Shortcuts](https://github.com/jensenfleming/Productivity-/blob/master/README.md#main-shortcuts-cmd-)
-- [Helpful Slack Commands](https://github.com/jensenfleming/Productivity-/blob/master/README.md#helpful-slack-commands)
-- [Slack Reminders](https://github.com/jensenfleming/Productivity-/blob/master/README.md#reminders-slacks-best-kept-secret)
-- [To Do List](https://github.com/jensenfleming/Productivity-/blob/master/README.md#to-do-list)
-- [Great Slash Commands](https://github.com/jensenfleming/Productivity-/blob/master/README.md#other-slash-commands)
-- [Alfred SetUp](https://github.com/jensenfleming/Productivity-/blob/master/README.md#alfred-app)
-- [Create an Alfred Web Search](https://github.com/jensenfleming/Productivity-/blob/master/README.md#set-up-a-web-search)
-- [Other Great Alfred Commands](https://github.com/jensenfleming/Productivity-/blob/master/README.md#many-alfred-commands)
-- [Text Expander in Alfred](https://github.com/jensenfleming/Productivity-/blob/master/README.md#Text-Expander-in-Alfred)
+- [Computer Shortcuts](https://github.com/andela/productivity/blob/master/README.md#computer-shortcuts)
+- [Chrome Shortcuts](https://github.com/andela/productivity/blob/master/README.md#chrome-shortcuts)
+- [Gmail Shortcuts](https://github.com/andela/productivity/blob/master/README.md#gmail-shortcuts)
+- [Slack Main Shortcuts](https://github.com/andela/productivity/blob/master/README.md#main-shortcuts-cmd-)
+- [Helpful Slack Commands](https://github.com/andela/productivity/blob/master/README.md#helpful-slack-commands)
+- [Slack Reminders](https://github.com/andela/productivity/blob/master/README.md#reminders-slacks-best-kept-secret)
+- [To Do List](https://github.com/andela/productivity/blob/master/README.md#to-do-list)
+- [Great Slash Commands](https://github.com/andela/productivity/blob/master/README.md#other-slash-commands)
+- [Alfred SetUp](https://github.com/andela/productivity/blob/master/README.md#alfred-app)
+- [Create an Alfred Web Search](https://github.com/andela/productivity/blob/master/README.md#set-up-a-web-search)
+- [Other Great Alfred Commands](https://github.com/andela/productivity/blob/master/README.md#many-alfred-commands)
+- [Text Expander in Alfred](https://github.com/andela/productivity/blob/master/README.md#text-expander-in-alfred)
 
 # General Computer/Chrome/Gmail shortcuts
 I just want to start with a few basic shortcuts that will save you time and sanity
@@ -218,4 +218,4 @@ Favorites:
 
 (sadly only Powerpack expansion)
 If you find yourself typing something repetativly, set this up. You can add dynamic dates/times, include something copied on your clipboard, and move your cursor. 
- - [Directoins here](https://www.alfredapp.com/help/features/snippets/#creating-snippets)
+ - [Directions here](https://www.alfredapp.com/help/features/snippets/#creating-snippets)
