@@ -19,6 +19,7 @@ Table of Contents:
 - [Alfred SetUp](https://github.com/jensenfleming/Productivity-/blob/master/README.md#alfred-app)
 - [Create an Alfred Web Search](https://github.com/jensenfleming/Productivity-/blob/master/README.md#set-up-a-web-search)
 - [Other Great Alfred Commands](https://github.com/jensenfleming/Productivity-/blob/master/README.md#many-alfred-commands)
+- [Text Expander in Alfred](https://github.com/jensenfleming/Productivity-/blob/master/README.md#Text-Expander-in-Alfred)
 
 # General Computer/Chrome/Gmail shortcuts
 I just want to start with a few basic shortcuts that will save you time and sanity
@@ -213,3 +214,8 @@ Favorites:
 - Launch app
 - Google Search
 
+### [Text Expander in Alfred](https://www.alfredapp.com/help/features/snippets/) 
+
+(sadly only Powerpack expansion)
+If you find yourself typing something repetativly, set this up. You can add dynamic dates/times, include something copied on your clipboard, and move your cursor. 
+ - [Directoins here](https://www.alfredapp.com/help/features/snippets/#creating-snippets)
