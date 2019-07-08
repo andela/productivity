@@ -155,8 +155,7 @@ There are a lot of slash commands, that you can view in the 🔗 ☝️ . I'm no
 | Join a channel| `/` join |
 | Leave a channel | `/` leave|
 | Mute a channel, or unmute a channel that is muted | `/` mute |
-| Start a Bluejeans | `/ bluejeans` meeting-name |
-| Start a Hangouts | `/ hangout` |
+| Start a Bluejeans | `/ zoom` |
 
 *[You can also create a custom emoji!!!](https://get.slack.help/hc/en-us/articles/206870177-Create-custom-emoji)
 
